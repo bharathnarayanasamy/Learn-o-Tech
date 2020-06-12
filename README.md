@@ -10,6 +10,7 @@ The key feature that Learn-o-Tech differ from other E-learing site is that it pr
 ### Note
 Since we are using free hosting services the site may get load very slowly...So please be patient
 
+
 ## Website Link:https://learnotech.000webhostapp.com/
-## App Link:https://drive.google.com/file/d/1RLTlhgXhr04wxjKA5zoxvuR3koT9FCB5/view?usp=sharing
+## App-Link:https://drive.google.com/file/d/1RLTlhgXhr04wxjKA5zoxvuR3koT9FCB5/view?usp=sharing
 
