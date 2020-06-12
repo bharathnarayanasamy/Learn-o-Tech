@@ -9,12 +9,12 @@ The key feature that Learn-o-Tech differ from other E-learing site is that it pr
 </br></br>
 ![WhatsApp Image 2020-06-12 at 12 50 57 PM](https://user-images.githubusercontent.com/64969007/84493774-fceac300-acc5-11ea-8828-ce7a4c1c7f5f.jpeg)
 
-</br>
+
 ## Note
 Since we are using free hosting services the site may get load very slowly...So please be patient
 </br></br>
 
 ## Website Link:https://learnotech.000webhostapp.com/
-</br>
+
 ## App-Link:https://drive.google.com/file/d/1RLTlhgXhr04wxjKA5zoxvuR3koT9FCB5/view?usp=sharing
 
